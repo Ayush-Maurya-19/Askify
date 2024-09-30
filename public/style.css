@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    color: blue !important;
+}
+
+.heading{
+    text-align:center;
+}
+
+.margin-botton-15{
+    margin-bottom: 15px;
+}
